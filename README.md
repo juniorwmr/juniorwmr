@@ -8,7 +8,7 @@
 
 ### 🛠️ Tecnologias
 #### 😎️ Tenho experiência
-  - [Javascript]()
+  - [Javascript](https://www.javascript.com/)
   - [Typescript](https://www.typescriptlang.org/)
   - [Html]()
   - [Css]()
@@ -21,6 +21,9 @@
   
  #### 📖️ Estou estudando
   - [Python](https://www.python.org/)
+  - [Typescript](https://www.typescriptlang.org/)
+  - [SCSS](https://sass-lang.com/)
+  - [NextJS](https://nextjs.org/)
 
  #### 🤔️ Tenho interesse
   - [VueJS](https://vuejs.org/)
