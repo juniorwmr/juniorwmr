@@ -31,4 +31,4 @@
  ### 💻️ Ambiente de desenvolvimento
   - __Sistema operacional__: [Linux Mint](https://linuxmint.com/)
   - __Sistema operacional__: [Windows 11](https://www.microsoft.com/pt-br/windows/)
-  - __Editor de código__: [Visual Studio Code](https://code.visualstudio.com/)
+  - __Editor de código__: [Cursor](https://cursor.com/)
