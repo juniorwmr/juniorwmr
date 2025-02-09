@@ -20,10 +20,10 @@
   - [Postgresql](https://www.postgresql.org/)
   - [MySql](https://www.mysql.com/)
   - [MongoDB](https://www.mongodb.com/)
+  - [Flutter](https://flutter.dev/)
 
 
  #### 🤔️ Tenho interesse
-  - [Flutter](https://flutter.dev/)
   - [Elixir](https://elixir-lang.org/)
   - [Php](https://www.php.net/)
 
